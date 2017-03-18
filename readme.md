@@ -1,0 +1,1 @@
+Parallex scrolling example, I do declare, for incorporation into artSmart.
